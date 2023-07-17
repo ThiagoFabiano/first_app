@@ -1,6 +1,8 @@
-# first_app
+App de jogar dados
 
-A new Flutter project.
+Meu primeiro app utilizando o Flutter seguindo o curso:
+Flutter & Dart - The Complete Guide [2023 Edition] by Maximilian Schwarzmüller.
+
 
 ## Getting Started
 
